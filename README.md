@@ -27,9 +27,9 @@ In this repository you will find *Deep Learning Lecture Material*
   Find a set of references to literature in the field. Each entry contains an abstract, a link and sometimes .pdf or .epub files.
 
 # References
-  This collection is based on a variety of excellent work and material within the field, mentioned bellow:
-  -
+This collection is based on a variety of excellent work and material within the field, mentioned bellow:
+  - First entry
 
 
-# Contact:
+# Contact
 Mark.Schutera@gmail.com
