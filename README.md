@@ -21,7 +21,9 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   2. ...
   
 # Flashcards
-  These flashcards are based on Anki (get the app here: https://apps.ankiweb.net/). The flashcards revolve around fundamentals of deep learning (build based on: http://www.deeplearningbook.org). When memorized and understood, the content will kick-start you for the course and examination. 
+  These flashcards are based on Anki (get the app here: https://apps.ankiweb.net/). The flashcards revolve around fundamentals of deep learning (build based on: http://www.deeplearningbook.org). When memorized and understood, the content will kick-start you for the course and examination. The following Anki decks are ready to be imported into your app:
+  1. DeepLearningLecture:Introduction
+  2. ...
 
 # Literature
   Find a set of references to literature in the field. Each entry contains an abstract, a link and sometimes .pdf or .epub files.
