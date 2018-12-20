@@ -31,5 +31,5 @@ This collection is based on a variety of excellent work and material within the 
   - First entry
 
 
-# Contact
-Mark.Schutera@gmail.com
+# Contact and Acknowledgements
+Contact: Mark.Schutera@gmail.com
