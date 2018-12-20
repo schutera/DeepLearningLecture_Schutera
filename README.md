@@ -8,7 +8,7 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   
 # Lecture notes
   Here you will find a draft version of the lecture notes, feel free to contribute.
-  During the lecture questions and second screen interaction will be available through sli.do (get the app here: https://www.sli.do/)
+  During the lecture second screen interaction will be available through sli.do (get the app here: https://www.sli.do/)
   1. Introduction
 
 # Lecture Slides
