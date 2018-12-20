@@ -1,5 +1,5 @@
 # DeepLearningLecture
-In this repository you will find *Deep Learning Lecture Material*
+In this repository you will find *Deep Learning Lecture Material*. Consider this whole lecture a living and vivid thing: An evolving draft with regular over the air updates. Feel free to contribute directly, give feedback, report errors and link additional material (see contact at the bottom). So far covered:
   - Lecture notes 
   - Lecture slides
   - Jupyter notebook tutorials and excercises 
