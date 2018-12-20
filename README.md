@@ -35,8 +35,8 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   ...  
 
 # References
-This collection is based on a variety of excellent work and material within the field, mentioned bellow:
-  - First entry
+This material is based on a variety of excellent work and material within the field, mentioned bellow:  
+[1], ...
 
 
 # Contact and Acknowledgements
