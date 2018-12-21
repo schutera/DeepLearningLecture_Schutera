@@ -50,5 +50,5 @@ This material is based on a variety of excellent work and material within the fi
 
 
 # Contact and Acknowledgements
-Contact: Mark.Schutera@gmail.com
-Google Scholar: https://scholar.google.de/citations?user=jFrk3WoAAAAJ&hl=de
+Contact: Mark.Schutera@gmail.com  
+Google Scholar: https://scholar.google.de/citations?user=jFrk3WoAAAAJ&hl=de  
