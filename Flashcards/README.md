@@ -1,5 +1,4 @@
-
-About Anki
+About anki
 ----------
 
 Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn. 
@@ -15,10 +14,9 @@ Even practicing guitar chords!
 Get Anki here: https://apps.ankiweb.net/
 
 
-About contents
---------------
+About content
+-------------
 
 The cards are based on the deep learning book.
 Find the book here: http://www.deeplearningbook.org
-
 And is extended by additional information, knowledge gathered over time.
