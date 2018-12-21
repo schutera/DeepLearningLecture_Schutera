@@ -13,3 +13,12 @@ Mastering long poems
 Even practicing guitar chords!
 
 Get Anki here: https://apps.ankiweb.net/
+
+
+About contents
+--------------
+
+The cards are based on the deep learning book.
+Find the book here: http://www.deeplearningbook.org
+
+And is extended by additional information, knowledge gathered over time.
