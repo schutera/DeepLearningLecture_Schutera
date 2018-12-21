@@ -35,8 +35,8 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   11. DeepLearningLecture:PracticalMethodology
   
 
-# Literature
-  Find a set of references to literature in the field. Each entry contains an abstract, a link and sometimes .pdf or .epub files.
+# Ressources
+  Find a set of references to ressources in the field. Each entry contains an abstract, a link and sometimes .pdf or .epub files.
   
   [1] *Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville*  
   Abstract: The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.  
