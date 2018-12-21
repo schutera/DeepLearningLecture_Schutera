@@ -20,3 +20,15 @@ About content
 The cards are based on the deep learning book.
 Find the book here: http://www.deeplearningbook.org
 And is extended by additional information, knowledge gathered over time.
+
+1. DeepLearningLecture:Introduction
+2. DeepLearningLecture:LinearAlgebra
+3. DeepLearningLecture:ProbabilityAndInformationTheory
+4. DeepLearningLecture:NumericalComputation
+5. DeepLearningLecture:MachineLearningBasics
+6. DeepLearningLecture:DeepFeedforwardNetworks
+7. DeepLearningLecture:RegularizationForDeepLearning
+8. DeepLearningLecture:OptimizationForTrainingDeepModels
+9. DeepLearningLecture:ConvolutionalNetworks
+10. DeepLearningLecture:RecurrentNetworks
+11. DeepLearningLecture:PracticalMethodology
