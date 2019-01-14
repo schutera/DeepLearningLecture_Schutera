@@ -11,12 +11,12 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   During the lecture second screen interaction will be available through sli.do (get the app here: https://www.sli.do/)
   1. Introduction
 
-# Lecture Slides
+# Lecture slides
   1. Introduction
   2. ...
   
 
-# Jupyter notebooks
+# Jupyter notebook tutorials and excercises
   1. Backpropagation and an introduction to Tensorflow
   2. ...
   
