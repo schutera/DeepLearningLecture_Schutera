@@ -44,11 +44,13 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   
   ...  
 
-# References
+# References and Acknowledgements
 This material is based on a variety of excellent work and material within the field, mentioned bellow:  
 [1], ...
 
+Kudos go to ...
 
-# Contact and Acknowledgements
+# Contact
 Contact: Mark.Schutera@gmail.com  
 Google Scholar: https://scholar.google.de/citations?user=jFrk3WoAAAAJ&hl=de  
+LinkedIn: https://de.linkedin.com/in/schuteramark
