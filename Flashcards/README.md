@@ -11,8 +11,8 @@ Brushing up on geography
 Mastering long poems
 Even practicing guitar chords!
 
-Get Anki here: https://apps.ankiweb.net/ 
-Get the Android App here: https://play.google.com/store/apps/details?id=com.ankiapp.client 
+Get Anki here: https://apps.ankiweb.net/  
+Get the Android App here: https://play.google.com/store/apps/details?id=com.ankiapp.client  
 
 
 About content
