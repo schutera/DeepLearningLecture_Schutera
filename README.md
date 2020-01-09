@@ -7,32 +7,38 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   - Literature
   
 # Lecture notes
-  Here you will find a draft version of the lecture notes, feel free to contribute.
+  Here you will find a draft version of the lecture notes (not available yet) and the lecture slides, feel free to contribute and fix any errors, typoes and mistakes you might find - thanks.
   During the lecture second screen interaction will be available through sli.do (get the app here: https://www.sli.do/)
-  1. Introduction
 
-# Lecture slides
-  1. Introduction
-  2. ...
+  1. Introduction and Deep Learning Foundations
+  2. Transfer Learning and Object Detection
+  3. Segmentation Networks
+  4. Deep Reinforcement Learning
+  5. Generative Adversarial Neural Networks
   
 
 # Jupyter notebook tutorials and excercises
-  1. Backpropagation and an introduction to Tensorflow
-  2. ...
+  1. Backpropagation and an Introduction to Tensorflow
+  2. Transfer Learning with Tensorflow for Object Classification
+  3. Segmentation with U-Net
+  4. Deep-Q Reinforcement Learning with the OpenAI gym
+  5. Generative Adversarial Neural Networks on MNIST
+  6. Recurrent Neural Networks for Language Modelling and Generation
   
 # Flashcards
   These flashcards are based on Anki (get the app here: https://apps.ankiweb.net/). The flashcards revolve around fundamentals of deep learning (build based on: http://www.deeplearningbook.org). When memorized and understood, the content will kick-start you for the course and examination. The following Anki decks are ready to be imported into your app:
   1. DeepLearningLecture:Introduction  
   2. DeepLearningLecture:LinearAlgebra  
-  3. DeepLearningLecture:ProbabilityAndInformationTheory  
-  4. DeepLearningLecture:NumericalComputation  
-  5. DeepLearningLecture:MachineLearningBasics  
-  6. DeepLearningLecture:DeepFeedforwardNetworks
-  7. DeepLearningLecture:RegularizationForDeepLearning
-  8. DeepLearningLecture:OptimizationForTrainingDeepModels
-  9. DeepLearningLecture:ConvolutionalNetworks
-  10. DeepLearningLecture:RecurrentNetworks
-  11. DeepLearningLecture:PracticalMethodology
+  
+  3. DeepLearningLecture:ProbabilityAndInformationTheory (tbd)
+  4. DeepLearningLecture:NumericalComputation (tbd)  
+  5. DeepLearningLecture:MachineLearningBasics (tbd)  
+  6. DeepLearningLecture:DeepFeedforwardNetworks (tbd)
+  7. DeepLearningLecture:RegularizationForDeepLearning (tbd)
+  8. DeepLearningLecture:OptimizationForTrainingDeepModels (tbd)
+  9. DeepLearningLecture:ConvolutionalNetworks (tbd)
+  10. DeepLearningLecture:RecurrentNetworks (tbd)
+  11. DeepLearningLecture:PracticalMethodology (tbd)
   
 
 # Ressources
