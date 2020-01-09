@@ -2,18 +2,9 @@
 
 Setup:
 
-
-      __...--~~~~~-._   _.-~~~~~--...__
-
-    //               `V'               \\   
-
-   //                 |                 \\    	Cheatsheet
-
-  //__...--~~~~~~-._  |  _.-~~~~~~--...__\\     Jupyter Notebook Getting started
- //__.....----~~~~._\ | /_.~~~~----.....__\\	Questions? mark.schutera@kit.edu
-====================\\|//====================
-
-                    `---`
+Cheatsheet
+Jupyter Notebook Getting started
+Questions? mark.schutera@kit.edu
 
 
 1. You need to install anaconda and than start the anaconda prompt
