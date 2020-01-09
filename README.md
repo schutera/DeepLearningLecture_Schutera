@@ -61,3 +61,5 @@ Kudos go to ...
 Contact: Mark.Schutera@gmail.com  
 Google Scholar: https://scholar.google.de/citations?user=jFrk3WoAAAAJ&hl=de  
 LinkedIn: https://de.linkedin.com/in/schuteramark
+
+I love virtual coffee: https://www.paypal.me/MarkSchutera
