@@ -1,0 +1,2 @@
+model_checkpoint_path: "ckpt_training_vgg16"
+all_model_checkpoint_paths: "ckpt_training_vgg16"
