@@ -32,7 +32,7 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   1. DeepLearningLecture:Introduction 
   2. DeepLearningLecture:LinearAlgebra
   3. DeepLearningLecture:ProbabilityAndInformationTheory (tbd)
-  4. DeepLearningLecture:NumericalComputation (tbd)  
+  4. DeepLearningLecture:NumericalComputation
   5. DeepLearningLecture:MachineLearningBasics (tbd)  
   6. DeepLearningLecture:DeepFeedforwardNetworks (tbd)
   7. DeepLearningLecture:RegularizationForDeepLearning (tbd)
@@ -56,7 +56,7 @@ This material is based on a variety of excellent work and material within the fi
 [1], ...
 
 Kudos go to ..
-  .. Martin Lanz (RWU) for the anki flashcards on numerical computation.
+    .. Martin Lanz (RWU) for the anki flashcards on numerical computation.
 
 # Contact
 Contact: Mark.Schutera@gmail.com  
