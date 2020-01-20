@@ -55,7 +55,8 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
 This material is based on a variety of excellent work and material within the field, mentioned bellow:  
 [1], ...
 
-Kudos go to ...
+Kudos go to ..
+  .. Martin Lanz (RWU) for the anki flashcards on numerical computation.
 
 # Contact
 Contact: Mark.Schutera@gmail.com  
