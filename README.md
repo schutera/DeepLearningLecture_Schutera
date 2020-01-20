@@ -56,7 +56,8 @@ This material is based on a variety of excellent work and material within the fi
 [1], ...
 
 Kudos go to ..
-    .. Martin Lanz (RWU) for the anki flashcards on numerical computation.
+
+  .. Martin Lanz (RWU) for the anki flashcards on numerical computation.
 
 # Contact
 Contact: Mark.Schutera@gmail.com  
