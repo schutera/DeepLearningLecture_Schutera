@@ -42,7 +42,7 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   11. DeepLearningLecture:PracticalMethodology (tbd)
   
 
-# Ressources
+# References and Ressources
   Find a set of references to ressources in the field. Each entry contains an abstract, a link and sometimes .pdf or .epub files.
   
   [1] *Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville*  
@@ -51,11 +51,12 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   
   ...  
 
-# References and Acknowledgements
-This material is based on a variety of excellent work and material within the field, mentioned bellow:  
-[1], ...
+# Acknowledgements
 
-Kudos go to ..
+The content of this repo has been used and build up for lectures at the Ravensburg-Weingarten University and Karlsruhe Institute of Technology. Thanks for providing me with the opportunity to do so. 
+
+
+Special Kudos go to ..
 
   .. Martin Lanz (RWU) for the anki flashcards on numerical computation.
 
