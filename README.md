@@ -51,7 +51,7 @@ In this repository you will find *Deep Learning Lecture Material*. Consider this
   
   [2] *Pattern Recognition and Machine Learning - Bishop*
   Abstract: Thisnewtextbookreﬂectstheserecentdevelopmentswhileprovidingacomprehensive introduction to the ﬁelds of pattern recognition and machine learning. It is aimed at advanced undergraduates or ﬁrst year PhD students, as well as researchers and practitioners, and assumes no previous knowledge of pattern recognition or machinelearningconcepts. 
-    Link: http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf 
+  Link: http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf 
  
  [3] *Deep Learning and Machine Learning Courses on Coursera - Andrew Ng*
  Abstract: In these courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.   
