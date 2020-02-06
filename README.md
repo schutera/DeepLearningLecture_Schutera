@@ -76,6 +76,7 @@ The content of this repo has been used and build up for lectures at the Ravensbu
 Special Kudos go to ..
 
   .. Martin Lanz (RWU) for the anki flashcards on numerical computation.
+  
   .. Frank Hafner (ZF) for hinting at great ressources and contributing with valuable ideas.
 
 # Contact
