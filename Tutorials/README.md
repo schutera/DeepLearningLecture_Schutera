@@ -1,11 +1,11 @@
 # Topic overview
 
 1. Backpropagation and an Introduction to Tensorflow
-2. Transfer Learning with Tensorflow for Object Classification
-3. Segmentation with U-Net
-4. Deep-Q Reinforcement Learning with the OpenAI gym
-5. Generative Adversarial Neural Networks on MNIST
-6. Recurrent Neural Networks for Language Modelling and Generation
+3. Transfer Learning with Tensorflow for Object Classification
+5. Segmentation with U-Net
+8. Deep-Q Reinforcement Learning with the OpenAI gym
+10. Generative Adversarial Neural Networks on MNIST
+12. Recurrent Neural Networks for Language Modelling and Generation
 
 # Jupyter notebook tutorial setup
 
