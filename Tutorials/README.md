@@ -4,10 +4,10 @@ Setup:
 
 Cheatsheet
 Jupyter Notebook Getting started
-Questions? mark.schutera@kit.edu
+Questions? mark.schutera@kit.edu / mark.schutera@mailbox.org
 
 
-1. You need to install anaconda and than start the anaconda prompt
+1. You need to install anaconda and then start the anaconda prompt
 
 
 2. Create a virtual env
