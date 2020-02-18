@@ -1,4 +1,4 @@
-# Topic Overview
+# Topic overview
 
 1. Backpropagation and an Introduction to Tensorflow
 2. Transfer Learning with Tensorflow for Object Classification
