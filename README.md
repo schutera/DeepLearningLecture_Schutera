@@ -1,5 +1,7 @@
 ![Introduction Image](/Graphics/womanAI.jpg)
 
+I love virtual coffee: https://www.paypal.me/MarkSchutera
+
 # Deep Learning Lecture
 In this repository you will find *Deep Learning Lecture Material*. Consider this whole lecture a living and vivid thing: An evolving draft with regular over the air updates. Feel free to contribute directly, give feedback, report errors and link additional material (see contact at the bottom). So far covered:
   - Lecture notes 
@@ -84,4 +86,4 @@ Contact: Mark.Schutera@gmail.com
 Google Scholar: https://scholar.google.de/citations?user=jFrk3WoAAAAJ&hl=de  
 LinkedIn: https://de.linkedin.com/in/schuteramark
 
-I love virtual coffee: https://www.paypal.me/MarkSchutera
+
