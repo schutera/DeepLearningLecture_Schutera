@@ -1,3 +1,5 @@
+I love virtual coffee: https://www.paypal.me/MarkSchutera
+
 # Topic overview
 
 1. Backpropagation and an Introduction to Tensorflow
