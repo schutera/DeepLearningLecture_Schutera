@@ -1,4 +1,4 @@
-![Introduction Image](/Graphics/womanAI.jpg)
+![Introduction Image](/Graphics/artificial_intelligence.jpg)
 
 I love virtual coffee: https://www.paypal.me/MarkSchutera
 
