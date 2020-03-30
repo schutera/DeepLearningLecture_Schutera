@@ -39,9 +39,10 @@ Questions? mark.schutera@kit.edu / mark.schutera@mailbox.org
 	>conda info --envs
 
 
-4. Install ipykernel
+4. Install ipykernel and the notebook
 
-	>pip install ipykernel
+	> conda install notebook
+	> pip install ipykernel
 
 
 
