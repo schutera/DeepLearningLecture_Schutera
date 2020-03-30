@@ -42,6 +42,7 @@ Questions? mark.schutera@kit.edu / mark.schutera@mailbox.org
 4. Install ipykernel and the notebook
 
 	> conda install notebook
+	  
 	> pip install ipykernel
 
 
