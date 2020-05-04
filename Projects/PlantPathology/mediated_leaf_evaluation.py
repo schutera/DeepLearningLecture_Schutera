@@ -137,7 +137,8 @@ class Leafcracker():
       with open(key, mode='w', newline='') as f:
           writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
           writer.writerow(['image_id', 'healthy', 'multiple_diseases', 'rust', 'scab'])
-
+          
+  # ===============================================================================================================
   def soft_prob(self, results):
       healthy = results[0]
       rust = results[1]
@@ -150,6 +151,8 @@ class Leafcracker():
 
       results = np.array([healthy, multiple_diseases, rust, scab])
       return results
+  # ===============================================================================================================
+
 
   def whattheleaf(self, file_name, key):
       print(file_name)
