@@ -1,4 +1,4 @@
-# Mark Schutera (mark.schutera@gmail.com) subject [leafpathology]
+# Mark Schutera (mark.schutera@mailbox.org) subject [leafpathology]
 # running under env tfp3.6
 
 
