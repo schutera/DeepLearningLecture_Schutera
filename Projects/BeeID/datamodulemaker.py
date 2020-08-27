@@ -38,8 +38,8 @@ def get_data(filename, urlname):
         print("Downloading data ", filename, '..')
         urllib.request.urlretrieve("https://beepositions.unit.oist.jp/" + urlname, filename)
     except urllib.error.URLError:
-        print("The data is longer available through this link ..")
-        print("Please contact k.bozek@uni-koeln.de for guidance and to provide the raw data.")
+        print("The data is no longer available through this link ..")
+        print("Please contact k.bozek@uni-koeln.de for guidance and to point to the new data source.")
         exit()
 
 
