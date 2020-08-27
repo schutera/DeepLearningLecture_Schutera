@@ -201,7 +201,7 @@ def clean_up():
 
 # -------
 
-if not os.path.exists('beeid_data/images/'):
+if os.path.exists('beeid_data/images/') is False:
     extract_all_files(filenames)
 
     for name in filenames:
