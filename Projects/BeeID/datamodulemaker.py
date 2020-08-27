@@ -36,7 +36,7 @@ filenames = ['S1', 'S2', 'S3', 'S4', 'S5']
 def get_data(filename, urlname):
     try:
         print("Downloading data ", filename, '..')
-        urllib.request.urlretrieve("https://beepositions.unit.oist.j/" + urlname, filename)
+        urllib.request.urlretrieve("https://beepositions.unit.oist.jp/" + urlname, filename)
     except urllib.error.URLError:
         print("The data is longer available through this link ..")
         print("Please contact k.bozek@uni-koeln.de for guidance and to provide the raw data.")
@@ -141,7 +141,6 @@ def generate_crops(sequence_names):
                         crop_image(filename[-1], int(tr[0]), centerpoint, bee_id)
                         tr = trs.readline().strip().split(',')
                     except IndexError:
-                        print("processing next trajectory ..")
                         break
             bee_id += 1
 
@@ -202,11 +201,13 @@ def clean_up():
 
 # -------
 
-extract_all_files(filenames)
+if not os.path.exists('beeid_data/images/'):
+    extract_all_files(filenames)
 
-for name in filenames:
-    # create raw frames from mp4 files {:04d}.format(count)
-    mp4_to_frames(name)
+    for name in filenames:
+        # create raw frames from mp4 files {:04d}.format(count)
+        mp4_to_frames(name)
+
 
 generate_crops(filenames)
 generate_meta_json()
