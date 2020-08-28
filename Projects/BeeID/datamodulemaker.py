@@ -90,7 +90,7 @@ def crop_image(sequence, frame, centerpoint, bee_id, boxedge=45, frame_skip=10):
 
 def progress_checker():
     path = 'beeid_data/images/'
-    images_dir = os.listdir(path)
+    images_dir = sorted(os.listdir(path))
 
     if len(images_dir) == 0:
         print('Generating BeeID dataset ..')
@@ -131,7 +131,7 @@ def generate_crops(sequence_names):
     # load tracklet information
     for filename in sequence_names[sequence:]:
         trajectory_path = './' + filename + '/trajectories/'
-        for trajectory in os.listdir(trajectory_path)[trajectory_id:]:
+        for trajectory in sorted(os.listdir(trajectory_path))[trajectory_id:]:
             print(trajectory_path + trajectory)
             with open(trajectory_path + trajectory) as trs:
                 tr = trs.readline().strip().split(',')
@@ -150,7 +150,7 @@ def generate_meta_json():
     meta_dict = {"identities": []}
     meta_list = []
     bee_in = 0
-    for img in os.listdir(path):
+    for img in sorted(os.listdir(path)):
         bee_id, _, _ = img.split('_')
         print(bee_id)
         if int(bee_id) == bee_in:
@@ -165,7 +165,7 @@ def generate_meta_json():
 
 def generate_split_json(test_percentage=0.8, gallery_to_query_ratio=10):
     path = 'beeid_data/images/'
-    last_id = int(os.listdir(path)[-1].split('_')[0])
+    last_id = int(sorted(os.listdir(path))[-1].split('_')[0])
     last_train_id = int(test_percentage * last_id+1)
 
     trainval = list(range(0, last_train_id))
