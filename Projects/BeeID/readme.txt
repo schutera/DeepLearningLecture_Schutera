@@ -47,4 +47,8 @@ The gallery / query ratio is 10:1.
 In case of questions, please do not hesitate to contact: mark.schutera@mailbox.org or mark.schutera@kit.edu
 Feel free to use the dataset or code in your own work, and make sure to cite ours.
 
- 
+
+Get the open-reid repository (https://github.com/Cysu/open-reid) ready for this dataset:
+
+Install scipy with version 1.2.1
+pip install scipy==1.2.1
