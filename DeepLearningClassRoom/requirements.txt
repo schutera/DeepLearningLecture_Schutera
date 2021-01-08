@@ -1,0 +1,40 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+absl-py=0.7.0=py36_1000
+astor=0.7.1=py_0
+blas=1.0=mkl
+ca-certificates=2018.11.29=ha4d7672_0
+certifi=2018.11.29=py36_1000
+gast=0.2.2=py_0
+grpcio=1.16.0=py36hbb4b082_1000
+icc_rt=2019.0.0=h0cc432a_1
+intel-openmp=2019.1=144
+libprotobuf=3.6.1=h1a1b453_1001
+m2w64-gcc-libgfortran=5.3.0=6
+m2w64-gcc-libs=5.3.0=7
+m2w64-gcc-libs-core=5.3.0=7
+m2w64-gmp=6.1.0=2
+m2w64-libwinpthread-git=5.0.0.4634.697f757=2
+markdown=2.6.11=py_0
+mkl=2018.0.3=1
+mkl_fft=1.0.10=py36_0
+mkl_random=1.0.2=py36_0
+msys2-conda-epoch=20160418=1
+numpy=1.15.4=py36ha559c80_0
+numpy-base=1.15.4=py36h8128ebf_0
+openssl=1.0.2q=hfa6e2cd_0
+pip=19.0.3=py36_0
+protobuf=3.6.1=py36he025d50_1001
+python=3.6.7=he025d50_1003
+setuptools=40.8.0=py36_0
+six=1.12.0=py36_1000
+tensorboard=1.10.0=py36_0
+tensorflow=1.10.0=py36_0
+termcolor=1.1.0=py_2
+vc=14=0
+vs2015_runtime=14.0.25420=0
+werkzeug=0.14.1=py_0
+wheel=0.33.1=py36_0
+wincertstore=0.2=py36_1002
+zlib=1.2.11=h2fa13f4_1004
