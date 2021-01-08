@@ -1,4 +1,4 @@
-name: notebook
+name: deep_environment
 channels:
 - conda-forge
 dependencies:
