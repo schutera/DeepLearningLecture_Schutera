@@ -1,4 +1,4 @@
-name: juno.tf
+name: notebook
 channels:
 - conda-forge
 dependencies:
