@@ -5,6 +5,10 @@
 
 '''
 
+#list the current work dir
+os.getcwd()
+#change the current work dir
+os.chdir()
 import numpy as np
 
 # Test for the basic add function.
