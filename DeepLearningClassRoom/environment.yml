@@ -1,0 +1,15 @@
+name: juno.tf
+channels:
+- conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - pandas
+    - matplotlib
+    - time
+    - seaborn
+    - random
+    - math
+    - importlib
