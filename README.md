@@ -76,6 +76,8 @@ The content of this repo has been used and build up for lectures at the Ravensbu
 
 
 Special Kudos go to ..
+  
+  .. Hendrik Vogt (KIT), for contributing to the Tutorials by conceptual and implementation work.
 
   .. Martin Lanz (RWU), Himanshu Anjaparavanda Kalappa (RWU) for contributing a part of the anki flashcards.
   
